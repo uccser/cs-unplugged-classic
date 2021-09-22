@@ -109,7 +109,7 @@ Translation has been done by Valentina Dagienė and Eglė Jasutė.
 ### Persian (Farsi)
 
 Persian (Farsi) version by Hamed Mohebbi and Erfaneh Mohebbi at Fatemi Cultural Institute, Tehran, IRAN.
-Translations are currently available for [Binary Numbers](/documents/books/persian/01_Fa_Binary_Numbers.pdf), [Image Representation](/documents/books/persian/02_Fa_Image_Representation.pdf) and [Text Compression](/documents/books/persian/03_Fa_Text_Compression.pdf).
+Translations are currently available for [Binary Numbers](/documents/activities/binary-numbers/01_Fa_Binary_Numbers.pdf), [Image Representation](/documents/activities/image-representation/02_Fa_Image_Representation.pdf) and [Text Compression](/documents/activities/text-compression/03_Fa_Text_Compression.pdf).
 
 ### Polish
 
