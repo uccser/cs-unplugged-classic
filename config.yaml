@@ -1,0 +1,53 @@
+baseURL: https://classic.csunplugged.org/
+description: Computer Science... without a computer!
+languageCode: en-us
+title: Classic CS Unplugged
+sectionPagesMenu: sectionsMenu
+theme: book
+
+# Site configuration
+# https://github.com/alex-shpak/hugo-book#site-configuration
+# googleAnalytics: UA-XXXXXXXXX-X
+disablePathToLower: false
+enableGitInfo: false
+disableKinds:
+  - taxonomy
+  - term
+params:
+  BookTheme: light
+  BookToC: true
+  BookLogo: /images/logos/classic-cs-unplugged-logo.png
+  BookSection: '*'
+  BookRepo: https://github.com/uccser/cs-unplugged-classic
+  BookCommitPath: commit
+  BookDateFormat: '2 Jan, 2006'
+  BookSearch: true
+  BookComments: false
+  BookPortableLinks: false
+  BookServiceWorker: false
+  # BookMenuBundle is set to 'none'
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: false
+      xhtml: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    ordered: false

@@ -1,0 +1,124 @@
+$thin-border: solid 1px #ddd;
+$classic-csu-red: #e33333;
+$modern-csu-red: #cc0423;
+
+nav {
+    user-select: none;
+
+}
+
+.brand-logo {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.brand-logo-mobile {
+    max-width: 10rem;
+}
+
+aside.book-menu {
+    .nav-divider {
+        border-top: $thin-border;
+        margin: 1rem 0;
+    }
+    ul li {
+        margin: 0 !important;
+        & > label,
+        & > a {
+            padding: 0.3rem 0.2rem;
+            border: 1px solid white;
+        }
+        & > label:hover,
+        & > a:hover {
+            opacity: 1;
+            border-radius: .2rem;
+            border: 1px solid $classic-csu-red;
+            background-color: rgba($classic-csu-red, 0.03);
+        }
+        & > label > a:hover {
+            opacity: 1;
+        }
+    }
+    ul#book-search-results {
+        small {
+            margin-left: 1rem;
+        }
+        small:before {
+            content: "- "
+        }
+    }
+}
+
+aside.book-toc {
+    nav#TableOfContents {
+        padding-left: 1rem;
+    }
+
+    ul li {
+        margin: 0 !important;
+        & > label,
+        & > a {
+            padding: 0.3rem 0.2rem;
+            border: 1px solid white;
+        }
+        & > label:hover,
+        & > a:hover {
+            opacity: 1;
+            border-radius: .2rem;
+            border: 1px solid var(--color-link);
+        }
+        & > label > a:hover {
+            opacity: 1;
+        }
+    }
+    #top-page-link {
+        display: block;
+        padding: 0.5rem 0.2rem;
+        border: 1px solid white;
+    }
+    #top-page-link:hover {
+        border-radius: .2rem;
+        border: 1px solid var(--color-link);
+    }
+}
+
+#return-link {
+    #return-link-arrow {
+        font-size: 2rem;
+        margin-right: .5rem;
+        color: $modern-csu-red;
+    }
+    a {
+        line-height: 1.1rem;
+    }
+}
+
+
+footer {
+    border-top: $thin-border;
+}
+
+#sponsor-logos {
+    justify-content: space-evenly;
+
+    img {
+        max-height: 2.5rem;
+        height: auto;
+        width: auto;
+    }
+}
+
+#migration-warning {
+    margin: 2rem 0;
+    padding: 0.5rem;
+    background-color: #ffb3b3;
+    border: 1px solid #fa6767;
+    border-radius: 0.3rem;
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+    #under-construction-img {
+        height: 7rem;
+        width: auto;
+        padding: 0;
+    }
+}

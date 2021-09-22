@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article class="markdown">
+    <h1>
+        {{ partial "docs/title.html" . }}
+    </h1>
+
+    {{- .Content -}}
+</article>
+{{ end }}
