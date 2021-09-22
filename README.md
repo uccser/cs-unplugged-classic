@@ -42,7 +42,7 @@ The `docker-compose.yml` file contains basic settings for deploying to the UCCSE
 The stack can be deployed with the following command:
 
 ```
-docker stack deploy classic-cs-unplugged -c docker-compose.yml
+docker stack deploy classic-cs-unplugged -c docker-compose.prod.yml
 ```
 
 ## Useful links
