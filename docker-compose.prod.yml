@@ -9,7 +9,7 @@ x-default-opts:
 
 services:
     nginx:
-        image: ghcr.io/uccser/classic-cs-unplugged:${CLASSIC_CS_UNPLUGGED_IMAGE_TAG}
+        image: ghcr.io/uccser/cs-unplugged-classic:${CLASSIC_CS_UNPLUGGED_IMAGE_TAG}
         deploy:
             replicas: 1
             placement:
