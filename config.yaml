@@ -9,7 +9,7 @@ theme: book
 # https://github.com/alex-shpak/hugo-book#site-configuration
 # googleAnalytics: UA-XXXXXXXXX-X
 disablePathToLower: false
-enableGitInfo: false
+enableGitInfo: true
 disableKinds:
   - taxonomy
   - term
