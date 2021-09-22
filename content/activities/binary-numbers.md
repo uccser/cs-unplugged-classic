@@ -270,9 +270,9 @@ The content is similar to the current version, but there's some extra technical 
 - [Rick Regan](https://www.exploringbinary.com/about/) reports on [ The Binary Marble Adding Machine](https://www.exploringbinary.com/the-binary-marble-adding-machine/). To learn about the inner workings of this machine, you may visit [woodgears workshop site on binary adding machine](https://woodgears.ca/marbleadd/index.html)
 - [Anthony Liekens](http://anthony.liekens.net/index.php/Main/HomePage) gives designs for building an [Analog Binary clock](http://anthony.liekens.net/index.php/Misc/AnalogBinaryClock)
 
-### Curriculum Links
+## Curriculum Links
 
-#### Great Principles of Computer Science
+### Great Principles of Computer Science
 
 - Recollection
 
