@@ -3,9 +3,11 @@
     <img src="{{ "svg/menu.svg" | relURL }}" class="book-icon" alt="Menu" />
   </label>
 
-  {{- with .Site.Params.BookLogo -}}
-    <img src="{{ . | relURL }}" alt="Classic CS Unplugged logo" class="brand-logo brand-logo-mobile"/>
-  {{- end -}}
+  <a href="{{ cond (not .Site.Home.File) .Sites.First.Home.RelPermalink .Site.Home.RelPermalink }}">
+    {{- with .Site.Params.BookLogo -}}
+      <img src="{{ . | relURL }}" alt="Classic CS Unplugged logo" class="brand-logo brand-logo-mobile"/>
+    {{- end -}}
+  </a>
 
   <label for="toc-control">
     {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
