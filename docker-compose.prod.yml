@@ -1,0 +1,33 @@
+version: '3.8'
+
+x-default-opts:
+  &default-opts
+  logging:
+    options:
+      max-size: '1m'
+      max-file: '3'
+
+services:
+    nginx:
+        image: ghcr.io/uccser/classic-cs-unplugged:${CLASSIC_CS_UNPLUGGED_IMAGE_TAG}
+        deploy:
+            replicas: 1
+            placement:
+                constraints:
+                    - node.role==worker
+                    - node.labels.role==apps
+            restart_policy:
+                condition: on-failure
+            labels:
+                - "traefik.enable=true"
+                - "traefik.docker.network=uccser-public"
+                - "traefik.http.services.classic-cs-unplugged.loadbalancer.server.port=8080"
+                - "traefik.http.routers.classic-cs-unplugged.service=classic-cs-unplugged"
+                - "traefik.http.routers.classic-cs-unplugged.rule=Host(`${CLASSIC_CS_UNPLUGGED_DOMAIN}`)"
+                - "traefik.http.routers.classic-cs-unplugged.entryPoints=web"
+        networks:
+            - uccser-public
+
+networks:
+    uccser-public:
+        external: true
