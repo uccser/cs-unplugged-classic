@@ -8,6 +8,6 @@ RUN adduser -u 5000 -D app \
 
 COPY --chown=app:app nginx/nginx.conf /etc/nginx/nginx.conf
 COPY --chown=app:app nginx/default.conf /etc/nginx/conf.d/
-COPY --chown=app:app public /usr/share/nginx/html
+COPY --chown=app:app public/ /usr/share/nginx/html
 
 USER app:app

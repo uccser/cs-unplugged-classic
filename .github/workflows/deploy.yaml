@@ -24,7 +24,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify && ls
 
       - name: Log in to the Container registry
         uses: docker/login-action@v1.10.0
