@@ -24,7 +24,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify && ls
+        run: hugo --minify
 
       - name: Log in to the Container registry
         uses: docker/login-action@v1.10.0
@@ -36,5 +36,6 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v2.7.0
         with:
+          context: .
           push: true
           tags: ghcr.io/${{ github.repository }}:master
