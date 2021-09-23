@@ -78,7 +78,6 @@ An older version of this activity can be downloaded in [PDF format here](/docume
 
 - [Wikipedia: Sorting Algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
 - [Fachhochschule Flensburg](http://www.fh-flensburg.de/fhfl/index.php) has a page dedicated to sequential and parallel sorting algorithms at [Sequential and parallel sorting algorithms](http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm).
-
 - [Virginia Tech, Dept of Computer Science ](https://vt.edu/) has a complete module on [Algorithms](http://courses.cs.vt.edu/%7Ecsonline/Algorithms/Lessons/index.html). See the lessons that relate to Sorting Algorithms below:
     - [Sorting Algorithms ](http://courses.cs.vt.edu/%7Ecsonline/Algorithms/Lessons/SortingAlgorithms/index.html)
     - [Basic Operations ](http://courses.cs.vt.edu/%7Ecsonline/Algorithms/Lessons/BasicOperations/index.html)
@@ -88,9 +87,7 @@ An older version of this activity can be downloaded in [PDF format here](/docume
     - [Insertion Sort ](http://courses.cs.vt.edu/%7Ecsonline/Algorithms/Lessons/InsertionSort/index.html)
     - [Selection Card Sort ](http://courses.cs.vt.edu/%7Ecsonline/Algorithms/Lessons/SelectionCardSort/index.html)
     - [Selection Sort](http://courses.cs.vt.edu/%7Ecsonline/Algorithms/Lessons/SelectionSort/index.html)
-
 - A famous story about the boy wonder of mathematics has taken on a life of its own. American Scientist has an article called [Gauss's Day of Reckoning ](https://www.americanscientist.org/article/gausss-day-of-reckoning) by [ Bryan Hayes](http://www.americanscientist.org/authors/detail/brian-hayes). The number of comparisons made for the simple sorting methods can be calculated using the sum 1+2+3+…+n-1, which is equal to n(n-1)/2. This series is often associated with stories of the mathematician. Gauss, who apparently used this equality to frustrate a teacher who had assigned the class to add up all the numbers from 1 to 100. There's a wonderful article about whether or not this story is apocryphal.
-
 - [BBC h2g2 ](https://h2g2.com/)has some articles on algorithms below:
     - [Algorithms ](https://h2g2.com/A842960)
     - [Basic Sorting Algorithms ](https://h2g2.com/A944471)

@@ -74,7 +74,6 @@ Sam takes a student through binary search
 
 - [Mordechai (Moti) Ben-Ari](http://www.weizmann.ac.il/sci-tea/benari/home) from the [ Weizmann Institute of Science, Israel ](https://www.weizmann.ac.il/pages/) has programmed linear, binary and hashing search in [Scratch ](https://scratch.mit.edu/) which can be downloaded in a [ zip file of the complete set of activities](https://code.google.com/archive/p/scratch-unplugged/downloads). Please read the `ReadMe.txt` for documentation.
 
-
 ## Curriculum Links
 
 ### Great Principles of Computer Science

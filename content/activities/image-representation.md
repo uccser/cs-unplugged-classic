@@ -83,23 +83,17 @@ The content is similar to the current version, but there's some extra technical 
 ### More lessons and activities
 
 - Francis Wyffels has created a [nice variation of this activity](http://web.archive.org/web/20140706041401/http://www.dwengo.org/CSUnplugged-image-representation) with more images and some thinking about protocols.
-
 - [Computer Science & Engineering for K-12 (cse4k12.org) ](http://cse4k12.org/)has the following activities related to binary numbers and image representation below:
     - [Bitmaps Activity](http://cse4k12.org/binary/bitmaps.html) where bitmaps are a way of encoding black and white images using binary numbers. A '0' is used to represents a white square in the image and a '1' is used to represent a black square. These worksheets provide a set of 8×8 grids where the student can draw their own black and white images and then write the corresponding binary (and hexadecimal) values.
     - [Crossbin Puzzles Activity](http://cse4k12.org/crossbin/index.html) that are similar to crossword puzzles
-
 - [*Registration and software download required*] [Wolfram Demonstrations Project](http://demonstrations.wolfram.com/index.html)has the following demonstration activities. Note: You will need to install the [Wolfram CDF Player](http://www.wolfram.com/player/)in order to use these activities. You can either download each demonstration or use your browser to run it. [Binary Run-Length Encoding](http://demonstrations.wolfram.com/BinaryRunLengthEncoding/) which splits data into runs of zeros and ones. A list of binary distinctions can then be encoded as a list of run-lengths
-
 - [Picture Logic](http://tonakai.aki.gs/picturelogic/index_e.html) has a puzzle similar to Run-length coding, but it only represents the number of black squares. You need to use some reasoning to work out where the white gaps are!
     - [Start here and click on Next to go to the next puzzle](http://tonakai.aki.gs/picturelogic/play/index_e.php?PNum=1)
     - [How to Play?](http://tonakai.aki.gs/picturelogic/howtoplay_e.html)
-
 - The Mathmaniacs website has a [similar activity](http://mathmaniacs.org/lessons/03-imagecomp/index.html) (lesson 3)
-
 - [SCIENCE BUDDIES](https://www.sciencebuddies.org/) offer the following activities:
     - [Image Compression vs. Image Quality: Finding the Best Tradeoff](https://www.sciencebuddies.org/science-fair-projects/project-ideas/CompSci_p006/computer-science/image-compression-versus-image-quality?fave=no&isb=cmlkOjc2ODUyMzcsc2lkOjAscDoxLGlhOkNvbXBTY2k&from=TSW): to measure the quality of compressed and uncompressed images, which will give you important insights into the trade-offs between file size and image quality
     - [Help! What File Format Should I Use to Save My Favorite Photo?](https://www.sciencebuddies.org/science-fair-projects/project-ideas/CompSci_p020/computer-science/file-formats-for-photos?fave=no&isb=cmlkOjc2ODUyMzcsc2lkOjAscDoxLGlhOkNvbXBTY2k&from=TSW): in this science fair project, you will test if saving an image file in a different format will change the file size
-
 - [TEACH Engineering ](https://www.teachengineering.org/)has the following K-12 resources in image representation:
     - [How Do You Store All This Data? ](https://www.teachengineering.org/lessons/view/van_robotic_vision_less3)allows students to start seeing the data structure they will use to store their images. Students will be introduced to two dimensional arrays and vector classes. Students will be guided to see that a vector class will be the most efficient way of storing the data for their images.
     - [What Makes Up A Colour? ](https://www.teachengineering.org/lessons/view/van_robotic_vision_less2)helps students learn why image colour becomes important as we distort the outer boundaries of an image and have to interpolate pixels to fill in gaps created from our algorithm. Students learn what a digital image is, what pixels are, and learn to convert between RGB and hexadecimal values.
@@ -110,17 +104,14 @@ The content is similar to the current version, but there's some extra technical 
 - The [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/) has chapters on:
     - [Compression Coding](https://www.csfieldguide.org.nz/en/chapters/coding-compression/) which covers the Run Length Encoding used in this activity.
     - [Data Representation](https://www.csfieldguide.org.nz/en/chapters/data-representation/) which covers Image Representation with colours.
-
 - [How Stuff Works: Fax Machine](https://electronics.howstuffworks.com/gadgets/fax/fax-machine.htm)
 - Wikipedia has useful articles on [fax](https://en.wikipedia.org/wiki/FAX), [run-length encoding](https://en.wikipedia.org/wiki/Run-length_encoding), and [pixels](https://en.wikipedia.org/wiki/Pixel).
 
 ### Videos
 
 - Taha Ben Brahim, Ph.D. candidate in Auburn University's Department of Computer Science and Software Engineering has programmed this activity using the Textrix robot and RobotC. View the Videos:
-
     - [CS Unplugged Image Representation Activity Part 1](https://www.youtube.com/watch?v=_koBK2gIgrQ)
     - [CS Unplugged Image Representation Activity Part 2](http://www.youtube.com/watch?v=Utua0Ax28-Y)
-
 - The [PrintBall](http://www.recyclism.com/printball.php) is a graffiti Robot. It works like a giant Ink-Jet printer using a PaintBall Gun as print-head. The PaintBall gun is mounted on a custom made pan & tilt unit, which is connected to a software programmed with PrintWare 6.0. The pan & tilt is controlled by an Atmel chip [programmed in Basic] allowing the PrintWare 6.0 software to move the two stepper motors and to trigger the PaintBall Gun. The software allows the users to load, analyse and shot images. The resolution of the image can be adjusted according to the number of steps between each points. For videos of PrintBall in action visit the above site.
 - The students at the Fall 2010 Auburn Robo Camp have demonstrated combining this image representation activity with robotics; [this video](https://www.youtube.com/watch?v=2zQDAcBzIKU) shows a robot decoding a binary image file (using the Textrix robot and RobotC).
 

@@ -80,7 +80,6 @@ The content is similar to the current version, but there's some extra technical 
         - [EAN Bar Codes – Lesson Plan](https://www.cimt.org.uk/resources/topical/bar/codes_u3_lp.pdf)
         - [EAN Bar Codes – OHP Slides](https://www.cimt.org.uk/resources/topical/bar/codes_u3_os.pdf)
         - [EAN Bar Codes – Student Resource](https://www.cimt.org.uk/resources/topical/bar/codes_u3_text.pdf)
-
 - The Mathmaniacs web site has a [similar activity](http://www.mathmaniacs.org/lessons/A-errordet/index.html) (lesson A)
 - [The Magic of Computer Science](http://www.cs4fn.org/mathemagic/) book, a collection of magic tricks based on Computer Science (including the one in this activity), available as part of [CS4FN](http://www.cs4fn.org/)
 - [Try Engineering](https://tryengineering.org/) has an activity called  [Cracking the Code](https://tryengineering.org/teacher/cracking-code/) which explores the concept of how computerized barcoding has simplified distributing and pricing of products. Students learn about encoding and decoding, the barcoding system, and how a mathematical formula is embedded in barcoding to safeguard against errors. Students use websites to identify product barcodes, test codes from everyday product, and work as an "engineering team" to come up with the next generation of information embedding systems.

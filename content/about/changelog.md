@@ -81,4 +81,4 @@ There is a cover page as part of the Word document, but the following page has a
  [11]: /documents/books/english/unplugged-v2-teachers-March2010.doc
  [12]: /documents/books/english/unplugged-book-v1.pdf
  [13]: /documents/books/english/unplugged-book-v1-latex-source.zip
- [14]: /documents/Cover-Bebras.zip
+ [14]: /archives/Cover-Bebras.zip

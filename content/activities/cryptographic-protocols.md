@@ -33,7 +33,6 @@ This is an absorbing activity for an individual student or a whole classroom.
 - [The Royal Institution UK](https://www.rigb.org/) and [Microsoft Research ](https://www.microsoft.com/en-us/research/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2F) together have produced activities in encryption, cryptography, and zero knowledge protocols for the classroom at the locations below:
     - [Keeping secrets secret](http://www.rigb.org/christmaslectures08/html/activities/keeping-secrets-secret.pdf#page=1)
     - [Zero-knowledge games](http://www.rigb.org/christmaslectures08/html/activities/zero-knowledge-games.pdf#page=1)
-
 - [Centre for Innovation in Mathematics Teaching ](http://www.cimt.org.uk/) has the following teaching packages developed to teach Codes and Ciphers in their Maths Curriculum:
     - Substitution Ciphers: [Teacher Guide](http://www.cimt.org.uk/resources/codes/codes_u1_tr.pdf), [Student Guide](http://www.cimt.org.uk/resources/codes/codes_u1_text.pdf), [OHP Slides](http://www.cimt.org.uk/resources/codes/codes_u1_os.pdf), [Lesson Plans](http://www.cimt.org.uk/resources/codes/codes_u1_lp.pdf)
     - Braille:[Teacher Guide](http://www.cimt.org.uk/resources/codes/codes_u2_tr.pdf), [Student Guide](http://www.cimt.org.uk/resources/codes/codes_u2_text.pdf), [OHP Slides](http://www.cimt.org.uk/resources/codes/codes_u2_os.pdf), [Lesson Plans](http://www.cimt.org.uk/resources/codes/codes_u2_lp.pdf).
@@ -55,12 +54,10 @@ This is an absorbing activity for an individual student or a whole classroom.
     - Arithmetic Coding: [Teacher Guide](http://www.cimt.org.uk/resources/codes/codes_u18_tr.pdf), [Student Guide](http://www.cimt.org.uk/resources/codes/codes_u18_text.pdf), [OHP Slides](http://www.cimt.org.uk/resources/codes/codes_u18_os.pdf), [Lesson Plans](http://www.cimt.org.uk/resources/codes/codes_u18_lp.pdf)
     - Lorenz Cipher Machine: [Teacher Guide](http://www.cimt.org.uk/resources/codes/codes_u19_tr.pdf), [Student Guide](http://www.cimt.org.uk/resources/codes/codes_u19_text.pdf), [OHP Slides](http://www.cimt.org.uk/resources/codes/codes_u19_os.pdf), [Lesson Plans](http://www.cimt.org.uk/resources/codes/codes_u19_lp.pdf)
     - Enigma Cipher: [Teacher Guide](http://www.cimt.org.uk/resources/codes/codes_u20_tr.pdf), [Student Guide](http://www.cimt.org.uk/resources/codes/codes_u20_text.pdf), [OHP Slides](http://www.cimt.org.uk/resources/codes/codes_u20_os.pdf), [Lesson Plans](http://www.cimt.org.uk/resources/codes/codes_u20_lp.pdf)
-
 - [Shodor Interactivate ](http://www.shodor.org/) has the following resources in Ciphers and Codes that includes activities and explanations for learners and instructors with discussions:
     - [Caesar Cipher I](http://www.shodor.org/interactivate/activities/CaesarCipher/)
     - [Caesar Cipher II](http://www.shodor.org/interactivate/activities/CaesarCipherTwo/)
     - [Caesar Cipher III](http://www.shodor.org/interactivate/activities/CaesarCipherThree/)
-
 - [Count On](http://www.counton.org/) has a complete section dedicated to Codebreaking with lots of online activities students can try in the following Ciphers and techniques:
     - [Tranposition Ciphers ](http://www.counton.org/explorer/codebreaking/transposition-ciphers.php)
     - [Caesar Cipher ](http://www.counton.org/explorer/codebreaking/caesar-cipher.php)
@@ -70,15 +67,12 @@ This is an absorbing activity for an individual student or a whole classroom.
     - [Enigma Cipher ](http://www.counton.org/explorer/codebreaking/enigma-cipher.php)
     - [One Time Pad ](http://www.counton.org/explorer/codebreaking/one-time-pad.php)
     - [Public Key Systems ](http://www.counton.org/explorer/codebreaking/public-key-systems.php)
-
 - Mike Koss created a [Paper Enigma Machine](https://www.apprendre-en-ligne.net/crypto/bibliotheque/PDF/paperEnigma.pdf), which students can use to create a paper version of the Enigma machine and make it work as per the instructions on the sheet. There are a set of slides on this activity [here](https://www.slideshare.net/mckoss/paper-enigma-machine).
-
 - [Stephen C Phillips](http://scphillips.com/) has the following fun activities and resources on Morse Code:
     - [Java Morse Code Translator](http://morsecode.scphillips.com/jtranslator.html)
     - [Morse Code Listings](http://morsecode.scphillips.com/morse.html)
     - [Phonetic Alphabets ](http://morsecode.scphillips.com/alphabet.html)
     - [Frequently Asked Questions](http://morsecode.scphillips.com/faq.html)
-
 - [Center for Discrete Mathematics & Theoretical Computer Science at Rutgers University ](http://dimacs.rutgers.edu/) has the following relevant resources created by various high school teachers:
     - [Matrices In Encryption And Decryption Of Codes ](http://archive.dimacs.rutgers.edu/drei/1997/classroom/lessons/matrices.html)
     - [Using the TI-83 to Encode a Message](http://archive.dimacs.rutgers.edu/drei/1997/classroom/lessons/ti83.html). See [Wikipedia: TI-83](http://en.wikipedia.org/wiki/TI-83_series).
@@ -95,7 +89,6 @@ This is an absorbing activity for an individual student or a whole classroom.
     - [Cryptography Implementation ](http://archive.dimacs.rutgers.edu/drei/1997/classroom/lessons/implementation.html)
     - [The Rotating Grille ](http://archive.dimacs.rutgers.edu/drei/1997/classroom/lessons/rotating.html)
     - [Does the falling tree make a sound if no one if there to hear it? (or communication via encryption)](http://archive.dimacs.rutgers.edu/drei/1997/classroom/lessons/falling.html)
-
 - *[Requires software download]* [Wolfram Demonstrations Project ](http://demonstrations.wolfram.com/index.html)has the following demonstration activities. Note: You will need to install the [Wolfram CDF Player ](http://www.wolfram.com/player/) in order to use these activities. You can either download each demonstration or use your browser to run it.
     - [Solve the Cryptoquote: ](http://demonstrations.wolfram.com/SolveTheCryptoquote/) Try your hand at decoding some famous quotes encoded using a substitution cipher. The person to whom the quote is attributed is encoded after the quote. Each cipher is a derangement of the letters of the alphabet, so that no letter stands for itself. If you need a hint to get started, the "show hint" button will randomly select a letter in the coded message and decode it for you.
     - [Solve the Cryptoquote Automatically: ](http://demonstrations.wolfram.com/SolveTheCryptoquoteAutomatically/) A cryptoquote is a puzzle, commonly found in newspapers, in which a substitution cipher is used to encrypt a famous quote. Here a brute force approach is taken to automatically decipher the encrypted text for 33 different puzzles listed in order of difficulty. The encrypted puzzle is dynamically updated as the solution progresses. Experiment with different solving strategies to enhance or degrade performance.
@@ -110,13 +103,11 @@ This is an absorbing activity for an individual student or a whole classroom.
     - [Additive Cipher: ](http://demonstrations.wolfram.com/AdditiveCipher/)The mono-alphabetic substitution cipher provides the simplest form of cryptography, where the cipher alphabet is simply a rearrangement of the plaintext alphabet. In an additive cipher, the cipher alphabet is a shift of the plaintext alphabet.
     - [Visual Encryption Pad: ](http://demonstrations.wolfram.com/VisualEncryptionPad/)Only one position of the random mask will reveal clear text hidden in the cypher pad. The security of the code depends on a safe way to pass or keep the random mask. Application of the trivial rules {0->1, 1->0, 2->1} to the sum of clear text and random mask generates the cypher pad.
     - [Redundancy in Written Language: ](http://demonstrations.wolfram.com/PoemMaker/)Languages have different levels of redundancy. Move the slider to remove increasing numbers of letters. Some languages remain readable even after removing a significant portion of the letters, while others become unreadable much sooner.
-
 - [Decoding Nazi Secrets](http://www.pbs.org/wgbh/nova/education/programs/2615_decoding.html): a television broadcast from November 9, 1999 offers some materials for teacher use which based on the program. Please note that the video is not required for using these activities:
     - [Classroom Activity](http://www.pbs.org/wgbh/nova/education/activities/2615_decoding.html): includes materials, lesson plans and answers
     - [Teaching Ideas from Other Teachers ](http://www.pbs.org/wgbh/nova/education/ideas/2615_decoding.html)
     - [Complete Transcript of the television broadcast](http://www.pbs.org/wgbh/nova/transcripts/2615decoding.html): can be used for research and further reading
     - [Send a Coded Message](http://www.pbs.org/wgbh/nova/decoding/send.html): an interactive online activity for students
-
 - [PBS' NOVA Online ](http://www.pbs.org/wgbh/nova/) has the following resources available in codes and ciphers with worked out examples:
     - [Crack the Ciphers ](http://www.pbs.org/wgbh/nova/decoding/faceoff.html): offers three World War II-style ciphers of different levels of difficulty for you to try to break
     - [Send a Coded Message ](http://www.pbs.org/wgbh/nova/decoding/send.html): offers an online version of an Enigma-like machine to encode your own message, then e-mail that message to a friend with instructions on how to decode it using a secret key.
@@ -124,13 +115,10 @@ This is an absorbing activity for an individual student or a whole classroom.
     - [Are Web Transactions Safe?](http://www.pbs.org/wgbh/nova/decoding/web.html): looks at all the ways encryption affects you, with a special emphasis on the Internet.
     - [Mind of a Codebreaker](http://www.pbs.org/wgbh/nova/decoding/mind.html): led by Alan Turing, inventor of the computer, the codebreakers of Bletchley Park were a brilliant, quirky bunch who broke the Engima in large part by learning to think like the German codemakers themselves.
     - [How the Enigma Works](http://www.pbs.org/wgbh/nova/military/how-enigma-works.html): The Enigma looks roughly like a typewriter, but it is infinitely more complex, with fully 17,576 ring settings for each of 60 possible wheel orders—and that is just to set it up for use.
-
 - Melissa Salpietra has the following interactive online activities:
     - [Cryptography 101](http://www.pbs.org/wgbh/nova/military/cryptography.html): an interactive activity that demonstrates different ways to make messages secret including transposition and substitution ciphers
     - [Send a Secret Message](http://www.pbs.org/wgbh/nova/military/secret-code.html): an interactive activity that lets you write a note, encode it, and send it to a friend for decoding.
-
 - [SECRET CODE BREAKER](http://www.secretcodebreaker.com/)is a comprehensive site covering a series of cryptography publications for young readers that provide detailed instructions explaining how to "crack" secret codes and ciphers for beginning cryptanalysts. Included are computer programs for code breaking and a series of coded secret messages actually sent by secret agents, spies and military commanders beginning with the Revolutionary War to the present including messages from the CIA "mole" Aldrich Ames to the KGB.
-
 - Dirk Rijmenants has an entire website [Cipher Machines and Cryptology ](http://users.telenet.be/d.rijmenants/index.htm) with loads of resources in Cryptography. A great activity challenge of interest is the following challenge which could be used as teaching tools:
     - [Enigma Challenge](http://users.telenet.be/d.rijmenants/en/challenge.htm): The Enigma cipher challenge gives you the chance to show your code breaking skills. Anyone, interested in the Enigma machine, can join the challenge.
     - [Cryptobox Challenge](http://users.telenet.be/d.rijmenants/en/boxchallenge.htm): The Crypto Box Challenge is a contest to decipher three scrambled pieces of text
@@ -158,11 +146,9 @@ This is an absorbing activity for an individual student or a whole classroom.
 ### Other resources
 
 - Frank Speiss has a very well designed [Enigma Machine Simulator using Flash ](http://enigmaco.de/enigma/enigma.html) with the [Help File on how to use the simulator](http://enigmaco.de/help_en.html)
-
 - [DIMACS, Rutgers University ](http://dimacs.rutgers.edu/)has the following sections for teaching Cryptography & Network Security at high school level:
     - [Keeping Secrets](http://archive.dimacs.rutgers.edu/drei/1997/classroom/index3.html): a great section discussing some topics which could be addressed in some high school courses
     - [Teacher breaks code on summer vacation](http://archive.dimacs.rutgers.edu/drei/1997/classroom/articles/article1.html): article about Connie Cunningham, a math teacher at Rocky Grove High School, learned the mathematics behind cryptography at a summer forum at Rutgers State University.
-
 - Monticello has a page on the [Wheel Cipher](http://www.monticello.org/site/research-and-collections/wheel-cipher)
 - [National Security Agency (NSA) Cryptokids ](https://www.nsa.gov/kids/)has a section for young children on Codes and Ciphers:
 
