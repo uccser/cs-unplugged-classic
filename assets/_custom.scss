@@ -106,6 +106,7 @@ footer {
 
 #sponsor-logos {
     justify-content: space-evenly;
+    flex-wrap: wrap;
 
     img {
         max-height: 2.5rem;
