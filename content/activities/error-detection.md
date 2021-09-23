@@ -24,7 +24,7 @@ This activity is a magic trick which most audiences find intriguing. In the tric
 - [Hungarian language version](/documents/activities/error-detection/4-error-detection-HU.pdf)
 - [Italian language version](/documents/activities/error-detection/error-detection-italian.pdf)
 - [Polish language version](/documents/activities/error-detection/A4.pdf)
-- [Portugese (Brazil) language version](/documents/activities/error-detection/portugese-brazil-04.pdf)
+- [Portuguese (Brazil) language version](/documents/activities/error-detection/Portuguese-brazil-04.pdf)
 - [Russian language version](/documents/activities/error-detection/Document4.pdf)
 - [Slovenian Language Translation](/documents/activities/error-detection/04-Popravljanje-napak.pdf)
 - [Turkish language version](/documents/activities/error-detection/unplugged-04-error_detection_turkish.pdf)

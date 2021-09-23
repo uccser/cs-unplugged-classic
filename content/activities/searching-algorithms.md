@@ -24,7 +24,7 @@ This activity explores the main algorithms that are used as the basis for search
 - [German language version](/documents/activities/searching-algorithms/CSUnplugged_OS_2015_v3.2.2_AL_Ak-6.pdf)
 - [Turkish language version](/documents/activities/searching-algorithms/unplugged-06-search_algorithms_turkish.pdf)
 - [Greek language version](/documents/activities/searching-algorithms/unplugged-06-search_algorithms_greek.pdf)
-- [Portugese (Brazil) language version](/documents/activities/searching-algorithms/portugese-brazil-06.pdf)
+- [Portuguese (Brazil) language version](/documents/activities/searching-algorithms/Portuguese-brazil-06.pdf)
 - [Russian language version](/documents/activities/searching-algorithms/Document6.pdf)
 - [Polish language version](/documents/activities/searching-algorithms/A6.pdf)
 - [Hungarian language version](/documents/activities/searching-algorithms/6_keresesek_HU.pdf)
