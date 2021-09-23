@@ -130,7 +130,7 @@ Derevyanko Irina Aleksandrovna, Candidate of Pedagogical Sciences (Computer Scie
 
 ### Serbo-Croatian
 
-The "Marching Orders" activity [is available here](/documents/books/serbo-croatian/Aktivnost-12.pdf).
+The "Marching Orders" activity [is available here](/documents/activities/programming-languages/Aktivnost-12.pdf).
 
 ### Slovenian
 
