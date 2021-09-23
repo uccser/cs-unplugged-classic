@@ -25,7 +25,7 @@ It can be done on paper, but we like to get students to do it on a large scale, 
 - [German language version](/documents/activities/sorting-network/CSUnplugged_OS_2015_v3.2.2_AL_Ak-8.pdf)
 - [Greek language version](/documents/activities/sorting-network/unplugged-08-sorting_networks_greek.pdf)
 - [Hungarian language version](/documents/activities/sorting-network/SortingNetworks_3.2.2_HU.pdf)
-- [Portuguese (Brazil) language version](/documents/activities/sorting-network/Portuguese-brazil-08.pdf)
+- [Portuguese (Brazil) language version](/documents/activities/sorting-network/portuguese-brazil-08.pdf)
 - [Polish language version](/documents/activities/sorting-network/A8.pdf)
 - [Slovenian Language Translation](/documents/activities/sorting-network/08-Vzporedno-urejanje.pdf)
 - [Turkish language version](/documents/activities/sorting-network/unplugged-08-sorting_networks_turkish.pdf)

@@ -29,7 +29,7 @@ There are several activities on binary numbers in this document, all simple enou
 - [Italian language version](/documents/activities/binary-numbers/unpluggedteachersact01.it_.pdf)
 - [Persian (Farsi) language version](/documents/activities/binary-numbers/01_Fa_Binary_Numbers.pdf)
 - [Polish language version](/documents/activities/binary-numbers/A1.pdf)
-- [Portuguese (Brazil) language version](/documents/activities/binary-numbers/Portuguese-brazil-01.pdf)
+- [Portuguese (Brazil) language version](/documents/activities/binary-numbers/portuguese-brazil-01.pdf)
 - [Russian language version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_russian.pdf)
 - [Slovenian Language Translation](/documents/activities/binary-numbers/01-Dvojiska-stevila.pdf)
 - [Turkish language version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_turkish.pdf)

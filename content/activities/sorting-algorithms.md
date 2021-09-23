@@ -26,7 +26,7 @@ In this activity students compare different algorithms to sort weights in order.
 - [Hungarian language version](/documents/activities/sorting-algorithms/7_rendezesek_HU.pdf)
 - [Italian language version](/documents/activities/sorting-algorithms/Sorting-algs-italian.pdf)
 - [Polish language version](/documents/activities/sorting-algorithms/A7.pdf)
-- [Portuguese (Brazil) language version](/documents/activities/sorting-algorithms/Portuguese-brazil-07.pdf)
+- [Portuguese (Brazil) language version](/documents/activities/sorting-algorithms/portuguese-brazil-07.pdf)
 - [Slovenian Language Translation](/documents/activities/sorting-algorithms/07-Urejanje.pdf)
 - [Turkish language version](/documents/activities/sorting-algorithms/unplugged-07-sort_algorithms_turkish.pdf)
 

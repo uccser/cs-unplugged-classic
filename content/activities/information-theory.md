@@ -35,7 +35,7 @@ Students unpack a compressed message
 - [Hungarian language version](/documents/activities/information-theory/5-information-theory-HU.pdf)
 - [Italian language version](/documents/activities/information-theory/info-theory-italian.pdf)
 - [Polish language version](/documents/activities/information-theory/A5.pdf)
-- [Portuguese (Brazil) language version](/documents/activities/information-theory/Portuguese-brazil-05.pdf)
+- [Portuguese (Brazil) language version](/documents/activities/information-theory/portuguese-brazil-05.pdf)
 - [Russian language version](/documents/activities/information-theory/Document5.pdf)
 - [Slovenian Language Translation](/documents/activities/information-theory/05-Bisekcija-drevesa.pdf)
 - [Turkish language version](/documents/activities/information-theory/unplugged-05-info_theory_turkish.pdf)

@@ -26,7 +26,7 @@ It can lead on to a discussion of minimal spanning tree algorithms for optimizin
 - [French language version](/documents/activities/minimal-spanning-trees/09_fr_Arbres_couvrants.pdf)
 - [Greek language version](/documents/activities/minimal-spanning-trees/unplugged-09-minimal_spanning_trees_greek.pdf)
 - [Hungarian language version](/documents/activities/minimal-spanning-trees/Minimal_Spanning_Tree_2015_v3.2.2_HU.pdf)
-- [Portuguese (Brazil) language version](/documents/activities/minimal-spanning-trees/Portuguese-brazil-09.pdf)
+- [Portuguese (Brazil) language version](/documents/activities/minimal-spanning-trees/portuguese-brazil-09.pdf)
 - [Polish language version](/documents/activities/minimal-spanning-trees/A9.pdf)
 - [Slovenian Language Translation](/documents/activities/minimal-spanning-trees/09-Minimalna-vpeta-drevesa.pdf)
 

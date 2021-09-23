@@ -27,7 +27,7 @@ Although the main activity is based on coloring a few dozen black pixels with a 
 - [Italian language version](/documents/activities/image-representation/image-rep-italian.pdf)
 - [Persian (Farsi) language version](/documents/activities/image-representation/02_Fa_Image_Representation.pdf)
 - [Polish language version](/documents/activities/image-representation/A2.pdf)
-- [Portuguese (Brazil) language version](/documents/activities/image-representation/Portuguese-brazil-02.pdf)
+- [Portuguese (Brazil) language version](/documents/activities/image-representation/portuguese-brazil-02.pdf)
 - [Russian language version](/documents/activities/image-representation/unplugged-02-image_representation_russian.pdf)
 - [Slovenian Language Translation](/documents/activities/image-representation/02-Stiskanje-slik.pdf)
 - [Turkish language version](/documents/activities/image-representation/unplugged-02-image_representation_turkish.pdf)
