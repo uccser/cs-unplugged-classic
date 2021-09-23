@@ -126,7 +126,7 @@ The content is similar to the current version, but there's some extra technical 
 
 ### Additional resources
 
-- [Mordechai (Moti) Ben-Ari](http://www.weizmann.ac.il/sci-tea/benari/home) from the [Weizmann Institute of Science, Israel ](https://www.weizmann.ac.il/pages/)has programmed the Image Representation (Run Length Encoding) Unplugged activity in [Scratch ](https://scratch.mit.edu/)which can be downloaded in a [zip file of the complete set of activities](https://code.google.com/archive/p/scratch-unplugged/downloads). Please read the ReadMe.txt for documentation.
+- [Mordechai (Moti) Ben-Ari](http://www.weizmann.ac.il/sci-tea/benari/home) from the [Weizmann Institute of Science, Israel ](https://www.weizmann.ac.il/pages/)has programmed the Image Representation (Run Length Encoding) Unplugged activity in [Scratch ](https://scratch.mit.edu/)which can be downloaded in a [zip file of the complete set of activities](https://code.google.com/archive/p/scratch-unplugged/downloads). Please read the `ReadMe.txt` for documentation.
 - [Hobart and William Smith Colleges](http://math.hws.edu/) has the [Data Representation Applet](http://math.hws.edu/TMCM/java/DataReps/index.html) which is a small applet that shows how the same 32 bits stored in the memory of a computer can represent different things, depending on how they are interpreted
 
 ## Curriculum Links

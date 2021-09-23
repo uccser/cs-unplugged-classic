@@ -75,7 +75,7 @@ The content is similar to the current version, but there's some extra technical 
 ### Binary cards simulators
 
 - The [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/) has a Binary Cards simulator [here](https://www.csfieldguide.org.nz/en/interactives/binary-cards/). It also has a chapter on [Data Representation](https://www.csfieldguide.org.nz/en/chapters/data-representation/), aimed at high school age students, that covers many more details of Binary numbers and how they are used to represent data.
-- [Mordechai (Moti) Ben-Ari](http://www.weizmann.ac.il/sci-tea/benari/home) from the [Weizmann Institute of Science, Israel](https://www.weizmann.ac.il/pages/)has programmed the Binary Numbers Unplugged activity in [Scratch](https://scratch.mit.edu/) which can be downloaded in a [zip file of the complete set of activities](https://code.google.com/archive/p/scratch-unplugged/downloads). Please read the ReadMe.txt for documentation.
+- [Mordechai (Moti) Ben-Ari](http://www.weizmann.ac.il/sci-tea/benari/home) from the [Weizmann Institute of Science, Israel](https://www.weizmann.ac.il/pages/)has programmed the Binary Numbers Unplugged activity in [Scratch](https://scratch.mit.edu/) which can be downloaded in a [zip file of the complete set of activities](https://code.google.com/archive/p/scratch-unplugged/downloads). Please read the `ReadMe.txt` for documentation.
 - [Online interactive binary cards](http://www.mrmaynard.com/activities/binarycards/) by Jim Maynard.
 
 ### More activities and lessons
