@@ -14,8 +14,6 @@ This is an absorbing activity for an individual student or a whole classroom.
 
 ## Activity description (PDF)
 
-- [Instructions for Cryptographic Protocols activity (English)](/documents/activities/cryptographic-protocols/unplugged-01-binary_numbers.pdf)
-
 - [Instructions for Cryptographic Protocols activity (English)](/documents/activities/cryptographic-protocols/unplugged-17-cryptographic_protocols_0.pdf)
 
 ### Translations and other versions:
