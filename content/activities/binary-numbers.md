@@ -22,6 +22,7 @@ There are several activities on binary numbers in this document, all simple enou
 - [Bosnia and Herzegovina Version](/documents/activities/binary-numbers/Binary-Bosnia-Version.pdf)
 - [Chinese Version](/documents/activities/binary-numbers/Binary-Chinese-Version.pdf)
 - [French language Version](/documents/activities/binary-numbers/01_fr_Ecriture_binaire.pdf)
+- [German language version](/documents/activities/binary-numbers/binary_CSunplugged-german-staub.pdf)
 - [Greek Language Version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_greek.pdf)
 - [Hungarian Language Version](/documents/activities/binary-numbers/1-binary-HU.pdf)
 - [Indonesian Language Version](/documents/activities/binary-numbers/unpluggedTeachersDec2008-edit_indonesia.pdf)

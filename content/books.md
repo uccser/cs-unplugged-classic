@@ -64,9 +64,9 @@ A [full German translation is available here](https://www.ada.wien/cs-unplugged-
 A German translation of the [first 5 activities is available here](/documents/books/german/CS_Unplugged-de.pdf), translated by Maexl Stege of Limburgerhof in Germany. In collaboration with SPARCS (Solving Problems with Algorithms, Robots, and ComputerS), Department of Computer Science, University of Victoria, Canada, Maexl is translating the remaining activities. Please send any comments regarding this translation to <sparcs@cs.uvic.ca>. An adaptation of Unplugged material in German from [the Hasso-Plattner-Institut](https://hpi.de/das-hpi/uebersicht.html) (Universität Potsdam), which covers many of the activities, can be [found here](https://troeger.eu/unplugged).
 
 Jacqueline Staub (at ETH Zurich) has produced a German translation of the
-[Binary Numbers activity](/documents/books/german/binary_CSunplugged-german-staub.pdf) and the [Sorting Algorithms](/documents/books/german/sorting_CSunplugged-german-staub.pdf).
+[Binary Numbers activity](/documents/activities/binary-numbers/binary_CSunplugged-german-staub.pdf) and the [Sorting Algorithms](/documents/activities/sorting-algorithms/sorting_CSunplugged-german-staub.pdf).
 
-Arno Liegmann (at ETH Zurich) has produced a German translation of the [Searching Algorithms](/documents/books/german/CSUnplugged_OS_2015_v3.2.2_AL_Ak-6.pdf), [Sorting Network](/documents/books/german/CSUnplugged_OS_2015_v3.2.2_AL_Ak-8.pdf) and [Orange Game](/documents/books/german/CSUnplugged_OS_2015_v3.2.2_AL_Ak-10.pdf) activities.
+Arno Liegmann (at ETH Zurich) has produced a German translation of the [Searching Algorithms](/documents/activities/searching-algorithms/CSUnplugged_OS_2015_v3.2.2_AL_Ak-6.pdf), [Sorting Network](/documents/activities/sorting-network/CSUnplugged_OS_2015_v3.2.2_AL_Ak-8.pdf) and [Orange Game](/documents/activities/routing-and-deadlock/CSUnplugged_OS_2015_v3.2.2_AL_Ak-10.pdf) activities.
 
 ### Greek
 
