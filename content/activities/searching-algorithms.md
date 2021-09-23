@@ -18,16 +18,16 @@ This activity explores the main algorithms that are used as the basis for search
 
 ### Translations and other versions
 
-- [Chinese Language Version](/documents/activities/searching-algorithms/Searching-Algorithms-Chinese-Version.pdf)
-- [Italian Language Version](/documents/activities/searching-algorithms/searching-algs-italian.pdf)
-- [French Language Version](/documents/activities/searching-algorithms/06_fr_Algorithmes_de_recherche.pdf)
-- [German Language Version](/documents/activities/searching-algorithms/CSUnplugged_OS_2015_v3.2.2_AL_Ak-6.pdf)
-- [Turkish Language Version](/documents/activities/searching-algorithms/unplugged-06-search_algorithms_turkish.pdf)
-- [Greek Language Version](/documents/activities/searching-algorithms/unplugged-06-search_algorithms_greek.pdf)
-- [Portugese (Brazil) Language Version](/documents/activities/searching-algorithms/portugese-brazil-06.pdf)
-- [Russian Language Version](/documents/activities/searching-algorithms/Document6.pdf)
-- [Polish Language Version](/documents/activities/searching-algorithms/A6.pdf)
-- [Hungarian Language Version](/documents/activities/searching-algorithms/6_keresesek_HU.pdf)
+- [Chinese language version](/documents/activities/searching-algorithms/Searching-Algorithms-Chinese-Version.pdf)
+- [Italian language version](/documents/activities/searching-algorithms/searching-algs-italian.pdf)
+- [French language version](/documents/activities/searching-algorithms/06_fr_Algorithmes_de_recherche.pdf)
+- [German language version](/documents/activities/searching-algorithms/CSUnplugged_OS_2015_v3.2.2_AL_Ak-6.pdf)
+- [Turkish language version](/documents/activities/searching-algorithms/unplugged-06-search_algorithms_turkish.pdf)
+- [Greek language version](/documents/activities/searching-algorithms/unplugged-06-search_algorithms_greek.pdf)
+- [Portugese (Brazil) language version](/documents/activities/searching-algorithms/portugese-brazil-06.pdf)
+- [Russian language version](/documents/activities/searching-algorithms/Document6.pdf)
+- [Polish language version](/documents/activities/searching-algorithms/A6.pdf)
+- [Hungarian language version](/documents/activities/searching-algorithms/6_keresesek_HU.pdf)
 - [Slovenian Language Translation](/documents/activities/searching-algorithms/06-Potapljanje-ladjic.pdf)
 
 ## Videos

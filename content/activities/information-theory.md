@@ -28,17 +28,17 @@ Students unpack a compressed message
 
 ### Translations and other Versions
 
-- [Arabic Language Version](/documents/activities/information-theory/arabic_version_information_theory.pdf)
-- [Chinese Language Version](/documents/activities/information-theory/Information-Theory-Chinese-Version.pdf)
-- [French Language Version](/documents/activities/information-theory/05_fr_Th%C3%A9orie_de_l_information.pdf)
-- [Greek Language Version](/documents/activities/information-theory/unplugged-05-info_theory_greek.pdf)
-- [Hungarian Language Version](/documents/activities/information-theory/5-information-theory-HU.pdf)
-- [Italian Language Version](/documents/activities/information-theory/info-theory-italian.pdf)
-- [Polish Language Version](/documents/activities/information-theory/A5.pdf)
-- [Portugese (Brazil) Language Version](/documents/activities/information-theory/portugese-brazil-05.pdf)
-- [Russian Language Version](/documents/activities/information-theory/Document5.pdf)
+- [Arabic language version](/documents/activities/information-theory/arabic_version_information_theory.pdf)
+- [Chinese language version](/documents/activities/information-theory/Information-Theory-Chinese-Version.pdf)
+- [French language version](/documents/activities/information-theory/05_fr_Th%C3%A9orie_de_l_information.pdf)
+- [Greek language version](/documents/activities/information-theory/unplugged-05-info_theory_greek.pdf)
+- [Hungarian language version](/documents/activities/information-theory/5-information-theory-HU.pdf)
+- [Italian language version](/documents/activities/information-theory/info-theory-italian.pdf)
+- [Polish language version](/documents/activities/information-theory/A5.pdf)
+- [Portugese (Brazil) language version](/documents/activities/information-theory/portugese-brazil-05.pdf)
+- [Russian language version](/documents/activities/information-theory/Document5.pdf)
 - [Slovenian Language Translation](/documents/activities/information-theory/05-Bisekcija-drevesa.pdf)
-- [Turkish Language Version](/documents/activities/information-theory/unplugged-05-info_theory_turkish.pdf)
+- [Turkish language version](/documents/activities/information-theory/unplugged-05-info_theory_turkish.pdf)
 
 ## Related Resources
 

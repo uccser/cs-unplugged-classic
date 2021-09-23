@@ -17,22 +17,22 @@ There are several activities on binary numbers in this document, all simple enou
 
 ### Translations and other versions:
 
-- [Arabic Language Version](/documents/activities/binary-numbers/binary_numbers_arabic_0.pdf)
+- [Arabic language version](/documents/activities/binary-numbers/binary_numbers_arabic_0.pdf)
 - [Bahasa Indonesia Version](/documents/activities/binary-numbers/Binary-Bahasa-Indonesia.pdf)
 - [Bosnia and Herzegovina Version](/documents/activities/binary-numbers/Binary-Bosnia-Version.pdf)
 - [Chinese Version](/documents/activities/binary-numbers/Binary-Chinese-Version.pdf)
-- [French language Version](/documents/activities/binary-numbers/01_fr_Ecriture_binaire.pdf)
+- [French language version](/documents/activities/binary-numbers/01_fr_Ecriture_binaire.pdf)
 - [German language version](/documents/activities/binary-numbers/binary_CSunplugged-german-staub.pdf)
-- [Greek Language Version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_greek.pdf)
-- [Hungarian Language Version](/documents/activities/binary-numbers/1-binary-HU.pdf)
-- [Indonesian Language Version](/documents/activities/binary-numbers/unpluggedTeachersDec2008-edit_indonesia.pdf)
-- [Italian Language Version](/documents/activities/binary-numbers/unpluggedteachersact01.it_.pdf)
-- [Persian (Farsi) language Version](/documents/activities/binary-numbers/01_Fa_Binary_Numbers.pdf)
-- [Polish Language Version](/documents/activities/binary-numbers/A1.pdf)
-- [Portugese (Brazil) Language Version](/documents/activities/binary-numbers/portugese-brazil-01.pdf)
-- [Russian Language Version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_russian.pdf)
+- [Greek language version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_greek.pdf)
+- [Hungarian language version](/documents/activities/binary-numbers/1-binary-HU.pdf)
+- [Indonesian language version](/documents/activities/binary-numbers/unpluggedTeachersDec2008-edit_indonesia.pdf)
+- [Italian language version](/documents/activities/binary-numbers/unpluggedteachersact01.it_.pdf)
+- [Persian (Farsi) language version](/documents/activities/binary-numbers/01_Fa_Binary_Numbers.pdf)
+- [Polish language version](/documents/activities/binary-numbers/A1.pdf)
+- [Portugese (Brazil) language version](/documents/activities/binary-numbers/portugese-brazil-01.pdf)
+- [Russian language version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_russian.pdf)
 - [Slovenian Language Translation](/documents/activities/binary-numbers/01-Dvojiska-stevila.pdf)
-- [Turkish Language Version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_turkish.pdf)
+- [Turkish language version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_turkish.pdf)
 
 ### Videos
 

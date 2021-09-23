@@ -20,7 +20,7 @@ This is an absorbing activity for an individual student or a whole classroom.
 
 ### Translations and other versions:
 
-- [Chinese Language Version](/documents/activities/cryptographic-protocols/Cryptographic-Protocols-Chinese-Version.pdf)
+- [Chinese language version](/documents/activities/cryptographic-protocols/Cryptographic-Protocols-Chinese-Version.pdf)
 - [Polish Language Translation](/documents/activities/cryptographic-protocols/activity17_Polish.pdf)
 - [Slovenian Language Translation](/documents/activities/cryptographic-protocols/17_Nogometni.pdf)
 

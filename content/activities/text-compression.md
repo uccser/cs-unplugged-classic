@@ -17,16 +17,16 @@ Children's rhymes and stories are good examples for text compression, because th
 
 ### Translations and other versions
 
-- [Chinese Language Version](/documents/activities/text-compression/Text-Compression-Chinese-Version.pdf)
-- [French Language Version](/documents/activities/text-compression/03_fr_Compression_de_texte.pdf)
-- [Greek Language Version](/documents/activities/text-compression/unplugged-03-text_compression_greek.pdf)
-- [Italian Language Version](/documents/activities/text-compression/text-compression-italian.pdf)
-- [Persian - Farsi Language Version](/documents/activities/text-compression/03_Fa_Text_Compression.pdf)
-- [Polish Language Version](/documents/activities/text-compression/A3.pdf)
-- [Portugese Language Version](/documents/activities/text-compression/portugese-brazil-03.pdf)
-- [Russian Language Version](/documents/activities/text-compression/Document3.pdf)
-- [Slovenian Language Version](/documents/activities/text-compression/03-Stiskanje-besedila.pdf)
-- [Turkish Language Version](/documents/activities/text-compression/unplugged-03-text_compression_turkish.pdf)
+- [Chinese language version](/documents/activities/text-compression/Text-Compression-Chinese-Version.pdf)
+- [French language version](/documents/activities/text-compression/03_fr_Compression_de_texte.pdf)
+- [Greek language version](/documents/activities/text-compression/unplugged-03-text_compression_greek.pdf)
+- [Italian language version](/documents/activities/text-compression/text-compression-italian.pdf)
+- [Persian - Farsi language version](/documents/activities/text-compression/03_Fa_Text_Compression.pdf)
+- [Polish language version](/documents/activities/text-compression/A3.pdf)
+- [Portugese language version](/documents/activities/text-compression/portugese-brazil-03.pdf)
+- [Russian language version](/documents/activities/text-compression/Document3.pdf)
+- [Slovenian language version](/documents/activities/text-compression/03-Stiskanje-besedila.pdf)
+- [Turkish language version](/documents/activities/text-compression/unplugged-03-text_compression_turkish.pdf)
 
 ![Compressing Bananas](/images/activities/text-compression/monkeys.jpg)
 

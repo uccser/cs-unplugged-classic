@@ -19,18 +19,18 @@ Although the main activity is based on coloring a few dozen black pixels with a 
 
 ### Translations and other versions
 
-- [Arabic Language Version](/documents/activities/image-representation/arabic_translation_image_representation.pdf)
-- [Chinese Language Version](/documents/activities/image-representation/Image-Representation-Chinese-Version.pdf)
-- [French Language Version](/documents/activities/image-representation/02_fr_Repr%C3%A9sentation_d_une_image.pdf)
-- [Greek Language Version](/documents/activities/image-representation/unplugged-02-image_representation_greek.pdf)
-- [Hungarian Language Version](/documents/activities/image-representation/2-image-compression-HU.pdf)
-- [Italian Language Version](/documents/activities/image-representation/image-rep-italian.pdf)
-- [Persian (Farsi) language Version](/documents/activities/image-representation/02_Fa_Image_Representation.pdf)
-- [Polish Language Version](/documents/activities/image-representation/A2.pdf)
-- [Portugese (Brazil) Language Version](/documents/activities/image-representation/portugese-brazil-02.pdf)
-- [Russian Language Version](/documents/activities/image-representation/unplugged-02-image_representation_russian.pdf)
+- [Arabic language version](/documents/activities/image-representation/arabic_translation_image_representation.pdf)
+- [Chinese language version](/documents/activities/image-representation/Image-Representation-Chinese-Version.pdf)
+- [French language version](/documents/activities/image-representation/02_fr_Repr%C3%A9sentation_d_une_image.pdf)
+- [Greek language version](/documents/activities/image-representation/unplugged-02-image_representation_greek.pdf)
+- [Hungarian language version](/documents/activities/image-representation/2-image-compression-HU.pdf)
+- [Italian language version](/documents/activities/image-representation/image-rep-italian.pdf)
+- [Persian (Farsi) language version](/documents/activities/image-representation/02_Fa_Image_Representation.pdf)
+- [Polish language version](/documents/activities/image-representation/A2.pdf)
+- [Portugese (Brazil) language version](/documents/activities/image-representation/portugese-brazil-02.pdf)
+- [Russian language version](/documents/activities/image-representation/unplugged-02-image_representation_russian.pdf)
 - [Slovenian Language Translation](/documents/activities/image-representation/02-Stiskanje-slik.pdf)
-- [Turkish Language Version](/documents/activities/image-representation/unplugged-02-image_representation_turkish.pdf)
+- [Turkish language version](/documents/activities/image-representation/unplugged-02-image_representation_turkish.pdf)
 
 ## Videos
 
