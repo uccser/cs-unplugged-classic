@@ -14,15 +14,15 @@ CS Unplugged is suitable for people of all ages, from elementary school to senio
 
 The material is available free of charge, and is shared under a [Creative Commons BY-NC-SA licence](https://creativecommons.org/licenses/by-nc-sa/4.0/), which makes it easy to copy, adapt and share it.
 
-<!-- Image slideshow to readd
-/wp-content/uploads/2015/04/DSC_4940.jpg
-/wp-content/uploads/2015/02/IMG_3852.jpg
-/wp-content/uploads/2015/04/IMG_0398.jpg
-/wp-content/uploads/2015/01/10461881_10204069578721529_4539551282003717994_o.jpg
-/wp-content/uploads/2015/02/IMG_3939.jpg
-/wp-content/uploads/2015/01/IMG_6456_compressed.jpg
-/wp-content/uploads/2015/01/10497270_10204069575721454_4120448642692549666_o.jpg
-/wp-content/uploads/2015/01/10382424_10204069584441672_4824188681639515718_o.jpg
-/wp-content/uploads/2015/02/IMG_3861.jpg
-/wp-content/uploads/2015/01/10373048_10204069575921459_3609563376240984644_o.jpg
+<!-- TODO: Image gallery or slideshow to add
+/images/homepage/DSC_4940.jpg
+/images/homepage/IMG_3852.jpg
+/images/homepage/IMG_0398.jpg
+/images/homepage/10461881_10204069578721529_4539551282003717994_o.jpg
+/images/homepage/IMG_3939.jpg
+/images/homepage/IMG_6456_compressed.jpg
+/images/homepage/10497270_10204069575721454_4120448642692549666_o.jpg
+/images/homepage/10382424_10204069584441672_4824188681639515718_o.jpg
+/images/homepage/IMG_3861.jpg
+/images/homepage/10373048_10204069575921459_3609563376240984644_o.jpg
 -->

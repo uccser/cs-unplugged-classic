@@ -34,7 +34,7 @@ There are several activities on binary numbers in this document, all simple enou
 - [Slovenian Language Translation](/documents/activities/binary-numbers/01-Dvojiska-stevila.pdf)
 - [Turkish language version](/documents/activities/binary-numbers/unplugged-01-binary_numbers_turkish.pdf)
 
-### Videos
+## Videos
 
 {{< youtube b6vHZ95XDwU >}}
 
@@ -42,28 +42,28 @@ There are several activities on binary numbers in this document, all simple enou
 
 {{< youtube xc0stfTVE_8 >}}
 
-<!--
-### Photos
+<!-- TODO: Image gallery or slideshow to add
+## Photos
 
-/binary_02-560x373.jpg
+/images/activities/binary-numbers/gallery/binary_02.jpg
 Tim demonstrates how binary numbers are stored.
 
-/binary_mr_idosaka_01-750x500.jpg
+/images/activities/binary-numbers/gallery/binary_mr_idosaka_01.jpg
 Mr Idosaka shows how magnetic binary number cards can be used on a whiteboard
 
-DSC247232-750x500.jpg
+/images/activities/binary-numbers/gallery/DSC247232.jpg
 Tim explains Binary Numbers
 
-DSCF41442-750x500.jpg
+/images/activities/binary-numbers/gallery/DSCF41442.jpg
 Binary Numbers Activity at Fujitsu Kids event with JOI, Japan
 
-/wp-content/uploads/2015/01/IMG_6436-e1420685121940-750x500.jpg
+/images/activities/binary-numbers/gallery/IMG_6436-e1420685121940.jpg
 Caitlin demonstrates binary
 
-/wp-content/uploads/2015/01/IMG_3837-750x500.jpg
+/images/activities/binary-numbers/gallery/IMG_3837-750x500.jpg
 Students using cards to count in binary
 
-/wp-content/uploads/2015/01/IMG_3908-750x500.jpg
+/images/activities/binary-numbers/gallery/IMG_3908-750x500.jpg
 Using small cards to count in binary
 -->
 

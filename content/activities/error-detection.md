@@ -33,37 +33,37 @@ This activity is a magic trick which most audiences find intriguing. In the tric
 
 See our [video page]({{< ref "videos#error-detection" >}}).
 
-<!--
+<!-- TODO: Image gallery or slideshow to add
 ## Photos
 
-wp-content/uploads/2014/12/error-detection-photo2-750x500.jpg
+/images/activities/error-detection/error-detection-photo2.jpg
 The parity tiles on a magnetic blackboard, from a demonstration in Japan.
 
-wp-content/uploads/2014/12/P1010353-750x500.jpg
+/images/activities/error-detection/P1010353.jpg
 Students trying out CS Unplugged in a High School Classroom, Japan
 
-wp-content/uploads/2014/12/P1010048-750x500.jpg
+/images/activities/error-detection/P1010048.jpg
 CS Unplugged in a High School Classroom, Japan
 
-wp-content/uploads/2014/12/DSC24790-750x500.jpg
+/images/activities/error-detection/DSC24790.jpg
 Tim explains Parity Magic Trick at the University of Canterbury, Christchurch in 2008
 
-wp-content/uploads/2014/12/DSC24702-750x500.jpg
+/images/activities/error-detection/DSC24702.jpg
 Tim guides students in Parity Magic Trick at University of Canterbury, Christchurch in 2008
 
-wp-content/uploads/2015/01/IMG_6417-750x500.jpg
+/images/activities/error-detection/IMG_6417.jpg
 Caitlin helps placing the parity bits
 
-wp-content/uploads/2015/01/IMG_6420-750x500.jpg
+/images/activities/error-detection/IMG_6420.jpg
 Sam guesses which card was flipped
 
-wp-content/uploads/2015/01/IMG_6423-750x500.jpg
+/images/activities/error-detection/IMG_6423.jpg
 Sam and Caitlin reveal how he knew
 
-wp-content/uploads/2015/01/IMG_3952-750x500.jpg
+/images/activities/error-detection/IMG_3952.jpg
 Students play with parity cards
 
-wp-content/uploads/2015/01/IMG_3971-750x500.jpg
+/images/activities/error-detection/IMG_3971.jpg
 A student guess which card was flipped
 -->
 
