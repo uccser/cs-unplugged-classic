@@ -42,30 +42,17 @@ There are several activities on binary numbers in this document, all simple enou
 
 {{< youtube xc0stfTVE_8 >}}
 
-<!-- TODO: Image gallery or slideshow to add
 ## Photos
 
-/images/activities/binary-numbers/gallery/binary_02.jpg
-Tim demonstrates how binary numbers are stored.
-
-/images/activities/binary-numbers/gallery/binary_mr_idosaka_01.jpg
-Mr Idosaka shows how magnetic binary number cards can be used on a whiteboard
-
-/images/activities/binary-numbers/gallery/DSC247232.jpg
-Tim explains Binary Numbers
-
-/images/activities/binary-numbers/gallery/DSCF41442.jpg
-Binary Numbers Activity at Fujitsu Kids event with JOI, Japan
-
-/images/activities/binary-numbers/gallery/IMG_6436-e1420685121940.jpg
-Caitlin demonstrates binary
-
-/images/activities/binary-numbers/gallery/IMG_3837-750x500.jpg
-Students using cards to count in binary
-
-/images/activities/binary-numbers/gallery/IMG_3908-750x500.jpg
-Using small cards to count in binary
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/binary-numbers/binary_02.jpg" caption="Tim demonstrates how binary numbers are stored." >}}
+    {{< gallery-image src="/images/activities/binary-numbers/binary_mr_idosaka_01.jpg" caption="Mr Idosaka shows how magnetic binary number cards can be used on a whiteboard" >}}
+    {{< gallery-image src="/images/activities/binary-numbers/DSC247232.jpg" caption="Tim explains Binary Numbers" >}}
+    {{< gallery-image src="/images/activities/binary-numbers/DSCF41442.jpg" caption="Binary Numbers Activity at Fujitsu Kids event with JOI, Japan" >}}
+    {{< gallery-image src="/images/activities/binary-numbers/IMG_6436-e1420685121940.jpg" caption="Caitlin demonstrates binary" >}}
+    {{< gallery-image src="/images/activities/binary-numbers/IMG_3837.jpg" caption="Students using cards to count in binary" >}}
+    {{< gallery-image src="/images/activities/binary-numbers/IMG_3908.jpg" caption="Using small cards to count in binary" >}}
+{{< /gallery >}}
 
 ## Related Resources
 

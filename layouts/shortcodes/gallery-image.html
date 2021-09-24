@@ -1,0 +1,11 @@
+{{ if (.Get "src") }}
+    {{- $src := .Get "src" -}}
+    {{- $caption := .Get "caption" -}}
+    {{- with .Parent -}}
+        <a href="{{$src}}" class="lightbox" data-caption="{{$caption}}">
+            <img src="{{$src}}" alt="{{$caption}}" class="gallery-image">
+        </a>
+    {{- end -}}
+{{ else }}
+    {{ errorf "missing value for argument 'src': %s" .Position }}
+{{ end }}
