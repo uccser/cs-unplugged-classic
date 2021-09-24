@@ -29,18 +29,13 @@ This activity explores just how hard it is to get things right.
 
 See our [video page]({{< ref "videos#human-interface-design" >}}).
 
-<!--
-## Photos
+## Photos
 
-wp-content/uploads/2015/01/IMG_6480-e1420685018331-750x500.jpg
-Sam demonstrating the Stroop effect
-
-wp-content/uploads/2015/01/IMG_6482-e1420685047298-750x500.jpg
-Sam demonstrating the Stroop effect
-
-wp-content/uploads/2015/01/IMG_6483-e1420685102225-750x500.jpg
-Sam making students laugh with their confusion
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/human-interface-design/IMG_6480.jpg" caption="Sam demonstrating the Stroop effect" >}}
+    {{< gallery-image src="/images/activities/human-interface-design/IMG_6482.jpg" caption="Sam demonstrating the Stroop effect" >}}
+    {{< gallery-image src="/images/activities/human-interface-design/IMG_6483.jpg" caption="Sam making students laugh with their confusion" >}}
+{{< /gallery >}}
 
 ## Related Resources
 
