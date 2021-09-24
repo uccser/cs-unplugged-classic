@@ -31,22 +31,14 @@ This fun activity is based around a fictitious pirate story which leads to the u
 
 See our [video page]({{< ref "videos#finite-state-automata" >}}).
 
-<!--
 ## Photos
 
-wp-content/uploads/2014/12/fsa-photo-1-750x500.jpg
-Teachers in Japan, preparing to be islands
-
-wp-content/uploads/2014/12/fsa-photo-2-750x500.jpg
-Nametags for the Treasure Island game
-
-wp-content/uploads/2014/12/fsa-photo-3-750x500.jpg
-Mr. Kazuhiro Sato, a Japanese elementary school teacher, proves John Donne incorrect by demonstrating that under suitable circumstances, at least one man can be an island
-
-wp-content/uploads/2015/01/TI-still-2-450x300.jpg
-A student mapping out their journey between islands
-
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/finite-state-automata/fsa-photo-1.jpg" caption="Teachers in Japan, preparing to be islands" >}}
+    {{< gallery-image src="/images/activities/finite-state-automata/fsa-photo-2.jpg" caption="Nametags for the Treasure Island game" >}}
+    {{< gallery-image src="/images/activities/finite-state-automata/fsa-photo-3.jpg" caption="Mr. Kazuhiro Sato, a Japanese elementary school teacher, proves John Donne incorrect by demonstrating that under suitable circumstances, at least one man can be an island" >}}
+    {{< gallery-image src="/images/activities/finite-state-automata/TI-still-2.jpg" caption="A student mapping out their journey between islands" >}}
+{{< /gallery >}}
 
 ## Related Resources
 
