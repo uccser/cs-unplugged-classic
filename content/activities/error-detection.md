@@ -33,39 +33,20 @@ This activity is a magic trick which most audiences find intriguing. In the tric
 
 See our [video page]({{< ref "videos#error-detection" >}}).
 
-<!-- TODO: Image gallery or slideshow to add
 ## Photos
 
-/images/activities/error-detection/error-detection-photo2.jpg
-The parity tiles on a magnetic blackboard, from a demonstration in Japan.
-
-/images/activities/error-detection/P1010353.jpg
-Students trying out CS Unplugged in a High School Classroom, Japan
-
-/images/activities/error-detection/P1010048.jpg
-CS Unplugged in a High School Classroom, Japan
-
-/images/activities/error-detection/DSC24790.jpg
-Tim explains Parity Magic Trick at the University of Canterbury, Christchurch in 2008
-
-/images/activities/error-detection/DSC24702.jpg
-Tim guides students in Parity Magic Trick at University of Canterbury, Christchurch in 2008
-
-/images/activities/error-detection/IMG_6417.jpg
-Caitlin helps placing the parity bits
-
-/images/activities/error-detection/IMG_6420.jpg
-Sam guesses which card was flipped
-
-/images/activities/error-detection/IMG_6423.jpg
-Sam and Caitlin reveal how he knew
-
-/images/activities/error-detection/IMG_3952.jpg
-Students play with parity cards
-
-/images/activities/error-detection/IMG_3971.jpg
-A student guess which card was flipped
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/error-detection/error-detection-photo2.jpg" caption="The parity tiles on a magnetic blackboard, from a demonstration in Japan." >}}
+    {{< gallery-image src="/images/activities/error-detection/P1010353.jpg" caption="Students trying out CS Unplugged in a High School Classroom, Japan" >}}
+    {{< gallery-image src="/images/activities/error-detection/P1010048.jpg" caption="CS Unplugged in a High School Classroom, Japan" >}}
+    {{< gallery-image src="/images/activities/error-detection/DSC24790.jpg" caption="Tim explains Parity Magic Trick at the University of Canterbury, Christchurch in 2008" >}}
+    {{< gallery-image src="/images/activities/error-detection/DSC24702.jpg" caption="Tim guides students in Parity Magic Trick at University of Canterbury, Christchurch in 2008" >}}
+    {{< gallery-image src="/images/activities/error-detection/IMG_6417.jpg" caption="Caitlin helps placing the parity bits" >}}
+    {{< gallery-image src="/images/activities/error-detection/IMG_6420.jpg" caption="Sam guesses which card was flipped" >}}
+    {{< gallery-image src="/images/activities/error-detection/IMG_6423.jpg" caption="Sam and Caitlin reveal how he knew" >}}
+    {{< gallery-image src="/images/activities/error-detection/IMG_3952.jpg" caption="Students play with parity cards" >}}
+    {{< gallery-image src="/images/activities/error-detection/IMG_3971.jpg" caption="A student guess which card was flipped" >}}
+{{< /gallery >}}
 
 ## Related Resources
 
