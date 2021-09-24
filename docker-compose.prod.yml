@@ -1,17 +1,19 @@
 version: '3.8'
 
 x-default-opts:
-  &default-opts
-  logging:
-    options:
-      max-size: '1m'
-      max-file: '3'
+    &default-opts
+    logging:
+        options:
+            max-size: '1m'
+            max-file: '3'
 
 services:
     nginx:
         image: ghcr.io/uccser/cs-unplugged-classic:${CLASSIC_CS_UNPLUGGED_IMAGE_TAG}
         deploy:
             replicas: 1
+            update_config:
+                order: start-first
             placement:
                 constraints:
                     - node.role==worker
