@@ -12,15 +12,12 @@ This activity uses some intriguing variations on the game of 20 questions to dem
 
 ![Rocket Ride](/images/activities/information-theory/rocket.jpg)
 
-<!--
 ## Photos
 
-wp-content/uploads/2015/01/IMG_6493-750x500.jpg
-Sam shows the students how much they already know of a sentence
-
-wp-content/uploads/2015/01/IMG_3945-750x500.jpg
-Students unpack a compressed message
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/information-theory/IMG_6493.jpg" caption="Sam shows the students how much they already know of a sentence" >}}
+    {{< gallery-image src="/images/activities/information-theory/IMG_3945.jpg" caption="Students unpack a compressed message" >}}
+{{< /gallery >}}
 
 ## Activity description (PDF)
 
