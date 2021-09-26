@@ -38,42 +38,21 @@ Although the main activity is based on coloring a few dozen black pixels with a 
 
 {{< youtube uaV2RuAJTjQ >}}
 
-<!--
 ## Photos
 
-/wp-content/uploads/2014/12/P1000779-750x500.jpg
-Activity explained at Fujitsu Kids event with JOI, Japan
-
-/wp-content/uploads/2014/12/P1000793_0-750x500.jpg
-Mr. Idosaka explains the concept at Fujitsu Kids event with JOI, Japan
-
-/wp-content/uploads/2014/12/P1000793-750x500.jpg
-Students' attempts at Fujitsu Kids event with JOI, Japan
-
-/wp-content/uploads/2014/12/image_repr_examples-750x500.jpg
-Examples of worksheets from Susumu Kanmune
-
-/wp-content/uploads/2015/01/IMG_6476-750x500.jpg
-Sam demonstrates how pixels work
-
-/wp-content/uploads/2015/01/IMG_6477-750x500.jpg
-Caitlin and Arnold talk about how the image is represented
-
-/wp-content/uploads/2015/01/IMG_6479-750x500.jpg
-Sam fills in the rest of the image
-
-/wp-content/uploads/2015/01/Fax-Still-2-750x500.jpg
-Students send the image across the playground
-
-/wp-content/uploads/2015/01/IMG_6466-750x500.jpg
-Arnold gets enlarged
-
-/wp-content/uploads/2015/01/IMG_6468-750x500.jpg
-Sam showing arnold
-
-/wp-content/uploads/2015/01/IMG_6470-750x500.jpg
-Sam and Caitlin asking the students what is happening
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/image-representation/P1000779.jpg" caption="Activity explained at Fujitsu Kids event with JOI, Japan" >}}
+    {{< gallery-image src="/images/activities/image-representation/P1000793_0.jpg" caption="Mr. Idosaka explains the concept at Fujitsu Kids event with JOI, Japan" >}}
+    {{< gallery-image src="/images/activities/image-representation/P1000793.jpg" caption="Students' attempts at Fujitsu Kids event with JOI, Japan" >}}
+    {{< gallery-image src="/images/activities/image-representation/image_repr_examples.jpg" caption="Examples of worksheets from Susumu Kanmune" >}}
+    {{< gallery-image src="/images/activities/image-representation/IMG_6476.jpg" caption="Sam demonstrates how pixels work" >}}
+    {{< gallery-image src="/images/activities/image-representation/IMG_6477.jpg" caption="Caitlin and Arnold talk about how the image is represented" >}}
+    {{< gallery-image src="/images/activities/image-representation/IMG_6479.jpg" caption="Sam fills in the rest of the image" >}}
+    {{< gallery-image src="/images/activities/image-representation/Fax-Still-2.jpg" caption="Students send the image across the playground" >}}
+    {{< gallery-image src="/images/activities/image-representation/IMG_6466.jpg" caption="Arnold gets enlarged" >}}
+    {{< gallery-image src="/images/activities/image-representation/IMG_6468.jpg" caption="Sam showing arnold" >}}
+    {{< gallery-image src="/images/activities/image-representation/IMG_6470.jpg" caption="Sam and Caitlin asking the students what is happening" >}}
+{{< /gallery >}}
 
 ## Related Resources
 
