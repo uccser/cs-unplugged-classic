@@ -35,26 +35,16 @@ This activity gives some first hand experience of such issues, with a game for a
 
 See our [video page]({{< ref "videos#routing-and-deadlock" >}}).
 
-<!--
 ## Photos
-wp-content/uploads/2014/12/routing-photo-1_0-750x500.jpg
-The Routing and Deadlock game in action, from a poster at a conference in Japan
 
-wp-content/uploads/2014/12/routing-photo-2_0-750x500.jpg
-The Routing and Deadlock activity can also be set up as a board game
-
-wp-content/uploads/2014/12/routing-photo-3-750x500.jpg
-A nice variation of the orange game was developed independently by Gottfried Vossen and Richard Bell.
-
-wp-content/uploads/2014/12/IMG_0596-640x426.jpg
-Prof. Wada uses trains in a variation of the orange game, Informatics Education Symposium 2010, Osaka, Japan
-
-wp-content/uploads/2014/12/DSCF7088-640x426.jpg
-Orange game, Informatics Education Symposium 2010, Osaka, Japan
-
-wp-content/uploads/2015/01/Fruit-still-3-450x300.jpg
-The orange game, with more fruit!
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/routing-and-deadlock/routing-photo-1_0.jpg" caption="The Routing and Deadlock game in action, from a poster at a conference in Japan" >}}
+    {{< gallery-image src="/images/activities/routing-and-deadlock/routing-photo-2_0.jpg" caption="The Routing and Deadlock activity can also be set up as a board game" >}}
+    {{< gallery-image src="/images/activities/routing-and-deadlock/routing-photo-3.jpg" caption="A nice variation of the orange game was developed independently by Gottfried Vossen and Richard Bell." >}}
+    {{< gallery-image src="/images/activities/routing-and-deadlock/IMG_0596.jpg" caption="Prof. Wada uses trains in a variation of the orange game, Informatics Education Symposium 2010, Osaka, Japan" >}}
+    {{< gallery-image src="/images/activities/routing-and-deadlock/DSCF7088.jpg" caption="Orange game, Informatics Education Symposium 2010, Osaka, Japan" >}}
+    {{< gallery-image src="/images/activities/routing-and-deadlock/Fruit-still-3.jpg" caption="The orange game, with more fruit!" >}}
+{{< /gallery >}}
 
 ## Related Resources
 
