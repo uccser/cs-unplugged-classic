@@ -45,51 +45,24 @@ See our [video page]({{< ref "videos#sorting-networks" >}}).
     - Have the robots do the pairwise comparison through Bluetooth using unique identifiers of each robot
     - Coordination of “Traffic” will be needed so the robots can move across the network so that they do not bump into each other.
 
-<!--
 ## Photos
 
-wp-content/uploads/2014/12/sorting-networks-photo-1_1-750x500.jpg
-Photos from Computer Science camps for students aged 8-12, run by Mark Laprairie of the University of Regina.
-
-wp-content/uploads/2014/12/sorting-networks-photo-2_0-750x500.jpg
-Students in New Zealand run the sorting network outdoors.
-
-wp-content/uploads/2014/12/sorting-networks-photo-3_0-750x500.jpg
-Sorting networks can also be set up as a board game if there's not enough space to run around.
-
-wp-content/uploads/2014/12/DSC24754-750x500.jpg
-Tim guides students in Sorting Networks activity, UOC, Christchurch, 17-18.04.2008
-
-wp-content/uploads/2014/12/IMG_0680-640x426.jpg
-Prof Wada with students, Informatics Education Symposium 2010, Osaka, Japan
-
-wp-content/uploads/2014/12/IMG_5235-750x500.jpg
-A 9 year old prepares the Sorting Network Activity with Michele Fini, Italy
-
-wp-content/uploads/2014/12/IMG_5242-750x500.jpg
-Sorting Network Activity with 11 & 12 year olds, Michele Fini, Italy, 2010
-
-wp-content/uploads/2014/12/RIMG1780_0-640x426.jpg
-Fujitsu's Kid's Event CSU Workshop, Tokyo, August 2010
-
-wp-content/uploads/2014/12/RIMG1780-640x426.jpg
-Fujitsu's Kid's Event CSU Workshop, Tokyo, August 2010
-
-wp-content/uploads/2014/12/Charlie-McDowell-UCSC-750x500.png
-Sorting Networks on Stairs - Charlie McDowell Univ. of Calif. Santa Cruz
-
-wp-content/uploads/2015/01/DSC_5006-750x500.jpg
-Students using a sorting network outside
-
-wp-content/uploads/2015/01/DSC_4979-750x500.jpg
-Half way through
-
-wp-content/uploads/2015/01/DSC_4940-750x500.jpg
-Bigger numbers
-
-wp-content/uploads/2015/01/DSC_4927-750x500.jpg
-Comparing numbers
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/sorting-networks/sorting-networks-photo-1_1.jpg" caption="Photos from Computer Science camps for students aged 8-12, run by Mark Laprairie of the University of Regina." >}}
+    {{< gallery-image src="/images/activities/sorting-networks/sorting-networks-photo-2_0.jpg" caption="Students in New Zealand run the sorting network outdoors." >}}
+    {{< gallery-image src="/images/activities/sorting-networks/sorting-networks-photo-3_0.jpg" caption="Sorting networks can also be set up as a board game if there's not enough space to run around." >}}
+    {{< gallery-image src="/images/activities/sorting-networks/DSC24754.jpg" caption="Tim guides students in Sorting Networks activity, UOC, Christchurch, 17-18.04.2008" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/IMG_0680.jpg" caption="Prof Wada with students, Informatics Education Symposium 2010, Osaka, Japan" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/IMG_5235.jpg" caption="A 9 year old prepares the Sorting Network Activity with Michele Fini, Italy" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/IMG_5242.jpg" caption="Sorting Network Activity with 11 & 12 year olds, Michele Fini, Italy, 2010" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/RIMG1780_0.jpg" caption="Fujitsu's Kid's Event CSU Workshop, Tokyo, August 2010" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/RIMG1780.jpg" caption="Fujitsu's Kid's Event CSU Workshop, Tokyo, August 2010" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/Charlie-McDowell-UCSC.png" caption="Sorting Networks on Stairs - Charlie McDowell Univ. of Calif. Santa Cruz" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/DSC_5006.jpg" caption="Students using a sorting network outside" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/DSC_4979.jpg" caption="Half way through" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/DSC_4940.jpg" caption="Bigger numbers" >}}
+    {{< gallery-image src="/images/activities/sorting-networks/DSC_4927.jpg" caption="Comparing numbers" >}}
+{{< /gallery >}}
 
 ## Related Resources
 
