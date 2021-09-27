@@ -34,18 +34,13 @@ This activity explores the main algorithms that are used as the basis for search
 
 See our [video page]({{< ref "videos#searching-algorithms" >}}).
 
-<!--
 ## Photos
 
-wp-content/uploads/2014/12/searching-algs-photo-750x500.jpg
-Teachers try the battleships game at a conference in Japan
-
-wp-content/uploads/2015/01/IMG_6453-750x500.jpg<div class="caption">
-Sam talks about finding numbers in a phonebook
-
-wp-content/uploads/2015/01/IMG_6456-750x500.jpg
-Sam takes a student through binary search
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/searching-algorithms/searching-algs-photo.jpg" caption="Teachers try the battleships game at a conference in Japan" >}}
+    {{< gallery-image src="/images/activities/searching-algorithms/IMG_6453.jpg" caption="Sam talks about finding numbers in a phonebook" >}}
+    {{< gallery-image src="/images/activities/searching-algorithms/IMG_6456.jpg" caption="Sam takes a student through binary search" >}}
+{{< /gallery >}}
 
 ## Related Resources
 
