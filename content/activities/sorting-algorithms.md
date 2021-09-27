@@ -34,21 +34,14 @@ In this activity students compare different algorithms to sort weights in order.
 
 See our [video page]({{< ref "videos#sorting-algorithms" >}}).
 
-<!--
 ## Photos
 
-wp-content/uploads/2015/02/sorting-algs-photo-750x500.jpg
-Supplies used for the sorting algorithm activities
-
-wp-content/uploads/2014/12/DSCF7019-640x426.jpg
-Mr. Nakamura explains sorting activity, Informatics Education Symposium 2010, Osaka, Japan
-
-wp-content/uploads/2014/12/IMG_0605-640x426.jpg
-Mr. Idosaka and Prof. Kuno at a card sorting contest, Informatics Education Symposium 2010, Osaka, Japan
-
-wp-content/uploads/2015/01/Sorting-Still-1-750x500.jpg
-A student sorts the weights
--->
+{{< gallery >}}
+    {{< gallery-image src="/images/activities/sorting-algorithms/sorting-algs-photo.jpg" caption="Supplies used for the sorting algorithm activities" >}}
+    {{< gallery-image src="/images/activities/sorting-algorithms/DSCF7019.jpg" caption="Mr. Nakamura explains sorting activity, Informatics Education Symposium 2010, Osaka, Japan" >}}
+    {{< gallery-image src="/images/activities/sorting-algorithms/IMG_0605.jpg" caption="Mr. Idosaka and Prof. Kuno at a card sorting contest, Informatics Education Symposium 2010, Osaka, Japan" >}}
+    {{< gallery-image src="/images/activities/sorting-algorithms/Sorting-Still-1.jpg" caption="A student sorts the weights" >}}
+{{< /gallery >}}
 
 ## Related Resources
 
