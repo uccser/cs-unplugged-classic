@@ -83,13 +83,22 @@ aside.book-toc {
 }
 
 #return-link {
-    #return-link-arrow {
-        font-size: 2rem;
-        margin-right: .5rem;
-        color: $modern-csu-red;
+    display: inline-flex;
+    border: 1px solid $classic-csu-red;
+    border-radius: .5rem;
+    padding: .4rem;
+    align-items: center;
+    #return-link-text {
+        margin-right: .4rem;
+        color: #333;
+        white-space: nowrap;
     }
-    a {
-        line-height: 1.1rem;
+    #cs-unplugged-logo {
+        max-height: 1.6rem;
+        width: 100%;
+    }
+    &:hover {
+        background-color: rgba($classic-csu-red, 0.05);
     }
 }
 
