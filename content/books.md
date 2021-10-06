@@ -115,7 +115,7 @@ Translations are currently available for [Binary Numbers](/documents/activities/
 
 Translations of each activity are available on the individual activity pages.
 
-### Portuguese - Brazil
+### Portuguese (Brazil)
 
 A Portuguese (Brazil) version is available for [download here](/documents/books/portuguese/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf) thanks to Luciano Porto Barreto, and a web version is [available here](http://desplugada.ime.unicamp.br/index.html) thanks to Leonardo Barichello.
 
