@@ -16,7 +16,7 @@ disableKinds:
 params:
   BookTheme: light
   BookToC: true
-  BookLogo: /images/logos/classic-cs-unplugged-logo.png
+  BookLogo: /images/logos/cs-unplugged-classic-logo.svg
   BookSection: '*'
   BookRepo: https://github.com/uccser/cs-unplugged-classic
   BookCommitPath: commit
