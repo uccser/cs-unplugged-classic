@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+    nginx:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        image: cs_unplugged_classic_local_nginx
+        volumes:
+            - ./public/:/usr/share/nginx/html/:z
+            - ./nginx/nginx.conf:/etc/nginx/nginx.conf:z
+            - ./nginx/default.conf:/etc/nginx/conf.d/default.conf:z
+
+        labels:
+            # General labels
+            - "traefik.enable=true"
+            - "traefik.docker.network=uccser-development-proxy"
+            - "traefik.http.services.classic-cs-unplugged-nginx.loadbalancer.server.port=8080"
+            # HTTPS
+            - "traefik.http.routers.classic-cs-unplugged-nginx.entryPoints=web-secure"
+            - "traefik.http.routers.classic-cs-unplugged-nginx.service=classic-cs-unplugged-nginx"
+            - "traefik.http.routers.classic-cs-unplugged-nginx.rule=Host(`classic.cs-unplugged.localhost`)"
+            - "traefik.http.routers.classic-cs-unplugged-nginx.tls=true"
+        networks:
+            - uccser-development-proxy
+
+networks:
+    uccser-development-proxy:
+        external: true
