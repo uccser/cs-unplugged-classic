@@ -11,7 +11,7 @@ All the English-language CS Unplugged activities are available in book form as a
 
 If you'd like a bound, printed copy of the English version, it's [available from lulu.com][lulu]; if you buy this print version you'll also be making a donation towards improving the resources we offer.
 
-**PDF Download:** You can download the 2015 edition here: [CSUnplugged\_OS\_2015_v3.1](/documents/books/english/CSUnplugged_OS_2015_v3.1.pdf)
+**PDF Download:** You can download the 2015 edition here: [CSUnplugged_OS_2015_v3.1](/documents/books/english/CSUnplugged_OS_2015_v3.1.pdf)
 
 **Word Download:** You can get a version that you can edit in MS Word (or Open Office) from the [changelog page]({{< ref "about/changelog" >}}), and there is more information about making contributions on the [contribute page]({{< ref "community/contribute" >}}).
 
@@ -27,6 +27,10 @@ Chapters from the book has been translated into many languages. Where only one 
 
 Activities 1 and 2 are available separately in Arabic on their respective pages, and together in a [single PDF here](/documents/books/arabic/CS_Unplugged-ar-03.2008-partial.pdf).
 The [first ten activities are available here](/documents/books/arabic/أنشطة-تعليم-الحاسب-بدون-حاسب-CsUnplugged-أمل-خوتاني-17-7-1435هـ.pdf).
+
+### Azerbaijani
+
+An Azerbaijani version translated by [Elvin Bashirli](https://twitter.com/ebashirli) is available for [download here](documents/books/azerbaijani/CSUnplugged_OS_2015_v3.2.2-az.pdf). You also can download [docx version here](documents/books/azerbaijani/CSUnplugged_OS_2015_v3.2.2-az.docx).
 
 ### Bahasa Indonesia
 
