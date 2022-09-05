@@ -10,6 +10,7 @@ You will need to install the following:
 
 - [Hugo](https://gohugo.io/)
 - [UCCSER Development Stack](https://github.com/uccser/uccser-development-stack)
+- Clone the Hugo theme which is a submodule with `git submodule init` and then `git submodule update`
 
 ## Development
 
