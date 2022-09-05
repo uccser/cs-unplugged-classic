@@ -52,6 +52,13 @@ cmd_end() {
 }
 defhelp end 'Stop development environment.'
 
+# Build Docker images
+cmd_build() {
+  echo "Building Docker images..."
+  docker compose -f docker-compose.local.yml build "$@"
+}
+defhelp build 'Build or rebuild Docker images.'
+
 # Update all content
 cmd_update() {
   hugo --config config.yaml,config.local.yaml
