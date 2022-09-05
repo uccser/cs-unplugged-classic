@@ -14,7 +14,7 @@ services:
         labels:
             # General labels
             - "traefik.enable=true"
-            - "traefik.docker.network=uccser-development-proxy"
+            - "traefik.docker.network=uccser-development-stack"
             - "traefik.http.services.classic-cs-unplugged-nginx.loadbalancer.server.port=8080"
             # HTTPS
             - "traefik.http.routers.classic-cs-unplugged-nginx.entryPoints=web-secure"
@@ -22,8 +22,8 @@ services:
             - "traefik.http.routers.classic-cs-unplugged-nginx.rule=Host(`classic.cs-unplugged.localhost`)"
             - "traefik.http.routers.classic-cs-unplugged-nginx.tls=true"
         networks:
-            - uccser-development-proxy
+            - uccser-development-stack
 
 networks:
-    uccser-development-proxy:
+    uccser-development-stack:
         external: true

@@ -38,7 +38,7 @@ defhelp help 'View all help.'
 # Start development environment
 cmd_start() {
   echo "Creating systems..."
-  docker-compose -f docker-compose.local.yml up -d
+  docker compose -f docker-compose.local.yml up -d
   # Alert user that system is ready
   echo -e "\n${SUCCESS}System is up!${NC}"
   echo -e "Run the command ${CODE}./dev update${NC} to create content."
@@ -48,7 +48,7 @@ defhelp start 'Start development environment.'
 # Stop development environment
 cmd_end() {
   echo "Stopping systems..."
-  docker-compose -f docker-compose.local.yml down
+  docker compose -f docker-compose.local.yml down
 }
 defhelp end 'Stop development environment.'
 

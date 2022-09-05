@@ -9,7 +9,7 @@ The resulting website is wrapped in a Nginx Docker container for deploying to a 
 You will need to install the following:
 
 - [Hugo](https://gohugo.io/)
-- [UCCSER Development Proxy](https://github.com/uccser/uccser-development-proxy)
+- [UCCSER Development Stack](https://github.com/uccser/uccser-development-stack)
 
 ## Development
 
