@@ -6,6 +6,7 @@ bookCollapseSection: true
 ---
 These activities have been contributed from the community and aren't necessarily tested, but there are some great ideas here that extend the main "canon" of Unplugged material!
 
+- [The Defrag Game]({{< ref "activities/community-activities/defrag-game" >}})
 - [Phylogenetics](/activities/community-activities/phylogenetics/)
 - [Class simulatation of a computer](/activities/community-activities/class-simulation-computer-unfinished/)
 - [Harold the robot](/activities/community-activities/harold-the-robot/)

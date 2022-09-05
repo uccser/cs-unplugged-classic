@@ -62,6 +62,7 @@ The activities are primarily aimed at the five to twelve year-old age group, but
 
 ## Community Activities
 
+- [The Defrag Game]({{< ref "activities/community-activities/defrag-game" >}})
 - [Artificial Intelligence]({{< ref "activities/community-activities/artificial-intelligence" >}})
 - [Class Simulation of a Computer]({{< ref "activities/community-activities/class-simulation-computer" >}})
 - [Databases]({{< ref "activities/community-activities/databases" >}})
